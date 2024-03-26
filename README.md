@@ -29,7 +29,7 @@
 - aws s3 ls
 
 ## STEP-3: Deploy Infra and Server
-- git clone -b terraform https://github.com/DL-Murali/lms.git
+- git clone -b terraform https://github.com/mubeen507/awsterraform
 - cd lms/terraform/
 - sudo vi provider.tf    --> update your access and secret key details
 - terraform init
